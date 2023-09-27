@@ -5,9 +5,6 @@ Established databases in MySQL Workbench, Azure SQL, and PostgreSQL, loaded them
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Document Title</title>
 </head>
 
 <body>
